@@ -11,7 +11,7 @@ If you don't have Docker already, download and install Docker from [here](https:
 #### Clone the Repository
 Run the command below to clone the Lab Repository:
 ```sh
-$ git clone https://github.com/udacity/CarND-TensorFlow-Lab.git
+$ git clone https://github.com/nguyenbuiUCSD/TensorFlow-Neural-Network-Lab.git
 ```
 #### Run the Notebook using Docker
 Run the following command from the same directory as the command above.
@@ -24,7 +24,7 @@ Open a browser window and go [here](http://localhost:8888/notebooks/CarND-Tensor
  - Problem 2: Use TensorFlow operations to create features, labels, weight, and biases tensors
  - Problem 3: Tune the learning rate, number of steps, and batch size for the best accuracy
 
-This is a self-assessed lab.  Compare your answers to the solutions [here](https://github.com/udacity/CarND-TensorFlow-Lab/blob/master/solutions.ipynb).  If you have any difficulty completing the lab, Udacity provides a few services to answer any questions you might have.
+This is a self-assessed lab.  Compare your answers to the solutions [here](https://github.com/nguyenbuiUCSD/TensorFlow-Neural-Network-Lab/blob/master/solutions.ipynb).  If you have any difficulty completing the lab, Udacity provides a few services to answer any questions you might have.
 
 ## OS X and Linux Instructions
 #### Install Anaconda
@@ -32,7 +32,7 @@ This lab requires [Anaconda](https://www.continuum.io/downloads) and [Python 3.4
 #### Run the Anaconda Environment
 Run these commands in your terminal to install all the requirements:
 ```sh
-$ git clone https://github.com/udacity/CarND-TensorFlow-Lab.git
+$ git clone https://github.com/nguyenbuiUCSD/TensorFlow-Neural-Network-Lab.git
 $ conda env create -f CarND-TensorFlow-Lab/environment.yml
 $ conda install --name CarND-TensorFlow-Lab -c conda-forge tensorflow
 ```
@@ -48,6 +48,4 @@ Open a browser window and go [here](http://localhost:8888/notebooks/CarND-Tensor
  - Problem 2: Use TensorFlow operations to create features, labels, weight, and biases tensors
  - Problem 3: Tune the learning rate, number of steps, and batch size for the best accuracy
 
-This is a self-assessed lab.  Compare your answers to the solutions [here](https://github.com/udacity/CarND-TensorFlow-Lab/blob/master/solutions.ipynb).  If you have any difficulty completing the lab, Udacity provides a few services to answer any questions you might have.
-## Help
-Remember that you can get assistance from your mentor, the Forums (click the link on the left side of the classroom), or the [Slack channel](https://carnd-slack.udacity.com). You can also review the concepts from the previous lessons.
+This is a self-assessed lab.  Compare your answers to the solutions [here](https://github.com/nguyenbuiUCSD/TensorFlow-Neural-Network-Lab/blob/master/solutions.ipynb).  If you have any difficulty completing the lab, Udacity provides a few services to answer any questions you might have.
